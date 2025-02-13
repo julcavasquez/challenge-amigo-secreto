@@ -12,6 +12,7 @@ function agregarAmigo(){
 //Agregando los nombres a la lista
     misAmigos.push(nomAmigo); 
     mostrarAmigos();
+    limpiarCaja();
     return;
 }
 
@@ -25,3 +26,8 @@ function mostrarAmigos(){
     return;
 }
 
+
+//Funcion limpiar caja texto
+function limpiarCaja(){
+    document.querySelector('#amigo').value = '' ;
+}
