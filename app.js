@@ -11,7 +11,7 @@ function agregarAmigo(){
     if(nomAmigo == ''){
        alert("Debe ingresar un nombre valido!");
     }else{
-        console.log(nomAmigo);
+        document.getElementById("resultado").innerHTML = "";
     //Agregando los nombres a la lista
         misAmigos.push(nomAmigo); 
         mostrarAmigos();
