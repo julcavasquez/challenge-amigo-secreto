@@ -1,7 +1,8 @@
 # Challenge Amigo Secreto
 
 ## Presentación
-
+El Desafío Amigo Secreto es un paso importante para el éxito en el programa ONE. A través de la práctica y el perfeccionamiento de la lógica de programación, podrás consolidar tus conocimientos, dominar el pensamiento lógico, mejorar tus habilidades de análisis y resolución de problemas, y ampliar tu perspectiva en el mundo del desarrollo.
+Con este desafío colocarás en práctica conceptos fundamentales de lógica de programación como variables, condicionales, funciones, listas y lazos de repetición; estos conceptos constituyen la base de cualquier lenguaje de programación, independientemente de su complejidad.
 ## Tecnologias Utilizadas
    Javascript   
    CSS  
@@ -15,6 +16,6 @@
 ![img 1](./capturas/3.jpg)
 4. El sistema mostrara el nombre del amigo secreto elegido.
 ![img 1](./capturas/4.jpg)
-Avisos!!
+Avisos!!  
 ![img 1](./capturas/5.jpg)
 ![img 1](./capturas/6.jpg)
