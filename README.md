@@ -3,7 +3,7 @@
 ## Presentación
 
 ## Tecnologias Utilizadas
-   Javascript 
-   CSS
-   HTML
+   Javascript   
+   CSS  
+   HTML  
 ## Funcionalidad
